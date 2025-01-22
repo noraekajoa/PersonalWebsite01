@@ -17,8 +17,16 @@
     - Takafumi N. Yamaguchi
     - Paul C. Boutros
 
-- name: "My paper"
-  url: https://www.biorxiv.org/content/10.1101/2024.10.31.621401v1
+
+- name: "The Comparative Metabolism of a Novel Hepatocellular Carcinoma Therapeutic Agent, 2,3-Diamino-N-(4-(benzo[d]thiazol-2-yl)phenyl)propanamide, in Human and Animal Hepatocytes"
+  url: https://www.mdpi.com/2218-1989/14/8/425
   featured: true
   authors:
-    - J.H Kim
+    - Young-Heun Jung
+    - Dong-Cheol Lee
+    - Ye-Min Kwon
+    - Eunbee Jang
+    - Garam Choi
+    - Yeoun-Hee Kim
+    - Tae Hwan Kim
+    - Ju-Hyun Kim
