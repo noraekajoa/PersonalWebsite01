@@ -2,7 +2,7 @@ import requests
 import yaml
 
 # Your ORCID ID
-orcid_id = "0009-0000-7683-5299"
+orcid_id = "0000-0002-6555-9716"
 # ORCID API endpoint for public data
 
 # Set headers for the API request
